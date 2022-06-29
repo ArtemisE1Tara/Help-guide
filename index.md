@@ -1,6 +1,6 @@
 ---
 title: "The unofficial helpers guide"
-permalink: /.md-website/
+permalink: /
 layout: default
 ---
 You can use the [editor on GitHub](https://github.com/oli-ctrl/.md-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Need help with the entire process, if so then start here
 
-[Getting Started](.md-website/getting_sidequest.md)
+[Getting Started](/.md-website/getting_sidequest.md)
 
 
 
