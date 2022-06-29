@@ -9,7 +9,14 @@ layout: default
 [(Getting Started)](getting_sidequest.md)
 
 
+[(Installing mods)](installing_mods.md)
+
+
 this website is on v0.2
+
+
+
 
 ##credits
 @oli#6747
+@ArtemisE1Tara#8160
