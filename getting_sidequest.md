@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: Getting sidequest
 layout: default
 filename: getting_sidequest.md
 --- 
