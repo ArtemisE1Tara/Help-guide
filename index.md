@@ -6,7 +6,7 @@ layout: default
 
 ### Need help with the entire process, if so then start here
 
-[Getting Started](/.md-website/getting_sidequest.md)
+[Getting Started]("/.md-website/getting_started/getting_sidequest.md")
 
 
 
