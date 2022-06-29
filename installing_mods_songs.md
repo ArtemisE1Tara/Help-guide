@@ -24,7 +24,7 @@ To add these mods to your game you can either use the web installer shown below 
 - Your ip is not 127.0.0.1
 ### If none of these work restart your quest and try them all again
 ---
-# 
+
 
 
 

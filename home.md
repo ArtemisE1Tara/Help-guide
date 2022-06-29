@@ -10,7 +10,7 @@ layout: default
 
 ### If you have already used bmbf and have the core mods you can skip to here
 
-[(Installing mods and songs)](installing_mods.md)
+[(Installing mods and songs)](installing_mods_songs.md)
 
 
 
@@ -37,7 +37,7 @@ this website is still in development
 
 ******
 
-Ver = 0.06
+Ver = 0.07
 
 ******
 
