@@ -28,10 +28,6 @@ layout: default
 
 
 
-****
-[(home)](home.md)
-
-****
 
 this website is still in development
 

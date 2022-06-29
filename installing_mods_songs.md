@@ -31,6 +31,8 @@ This is the simplest method of adding songs to your game, you can open this by l
 ![](assets/song_downloader.png "This image shows the in game song downloader")
 At the top of this page you can see a search bar, you can type the name of the song you want to download there. You can also add filters to this list to show only songs that use noodle extensions, or filter only ranked songs.
 ![](assets/song_filter_in_game.png "This image shows the in game song downloader's filters")
+
+
 ****
 [(home)](home.md)
 
