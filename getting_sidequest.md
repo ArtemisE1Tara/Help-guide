@@ -1,4 +1,7 @@
-## Welcome to the unofficial help guide
+---
+title: "Getting sidequest"
+permalink: /
+layout: default
+---
 
-This is a test
-
+If this shows i am very happy
