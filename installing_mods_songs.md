@@ -24,7 +24,14 @@ To add these mods to your game you can either use the web installer shown below 
 - Your ip is not 127.0.0.1
 ### If none of these work restart your quest and try them all again
 ---
+# To add songs to your game you can use a few different methods
 
+### The in game song downloader
+This is the simplest method of adding songs to your game, you can open this by looking to your left in the main menu and clicking "song downloader" will bring you into a menu that looks like this:
+![](assets/song_downloader.png "This image shows the in game song downloader")
+At the top of this page you can see a search bar, you can type the name of the song you want to download there. You can also add filters to this list to show only songs that use noodle extensions, or filter only ranked songs.
+![](assets/song_filter_in_game.png "This image shows the in game song downloader's filters")
+****
+[(home)](home.md)
 
-
-
+****

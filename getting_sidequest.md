@@ -10,3 +10,7 @@ filename: getting_sidequest.md
 [(Downgrading)](downgrading.md)
 
 
+****
+[(home)](home.md)
+
+****
