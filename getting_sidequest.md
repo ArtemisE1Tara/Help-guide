@@ -1,7 +1,7 @@
 ---
 title: "Getting sidequest"
 permalink: /
-layout: default
+layout: index.md
 ---
 
 
