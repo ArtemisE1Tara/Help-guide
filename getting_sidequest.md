@@ -7,6 +7,6 @@ filename: getting_sidequest.md
 
 
 ### please fucking work omg
-[downgrading](downgrading.md)
+[(Downgrading)](downgrading.md)
 
 
