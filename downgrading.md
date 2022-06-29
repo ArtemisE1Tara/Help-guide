@@ -9,7 +9,7 @@ filename: downgrading.md
 # Downgrading
 depending on the mods that you want you may need to downgrade to different versions.
 
-- if you want noodle, chroma, scorsaber and custom sabers you should downgrade to **1.17.1**
+- if you want noodle, chroma, scoresaber and custom sabers you should downgrade to **1.17.1**
 - if you only want noodle and chroma then downgrade to **1.19.1**
 - if you would like multiplayer support and the new note types then downgrade to **1.21**
 
