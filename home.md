@@ -37,7 +37,7 @@ this website is still in development
 
 ******
 
-Ver = 0.05
+Ver = 0.06
 
 ******
 
