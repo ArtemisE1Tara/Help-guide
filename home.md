@@ -12,7 +12,7 @@ layout: default
 [(Installing mods)](installing_mods.md)
 
 ## image testing
-![the nuggo man](/assets/nuggo.png "smexy nugget")
+![the nuggo man](assets/nuggo.png "smexy nugget")
 
 
 
