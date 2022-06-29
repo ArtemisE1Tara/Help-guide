@@ -17,5 +17,5 @@ depending on the mods that you want you may need to downgrade to different versi
 
 - If you have a pc with sidequest then follow download the apk of your desired version from [(here)](https://oculusdb.rui2015.me/guide/quest/pc)
 - If you dont have a pc or are using the beta version of sidequest then use this tool [(QAVS)] (https://oculusdb.rui2015.me/guide/quest/qavs)
-- A third option for downgrading is to install <a href="assets/Cx File Explorer.com.apk" download>(CX file explorer)</a>, this will allow you to install apks from inside your headset. 
+- A third option for downgrading is to install <a href="assets/Cx File Explorer.com.apk" download>(CX file explorer)</a>, this will allow you to install apks from inside your headset. To get the file on your headset you could either download it in the oculus browser from [(here)](https://oculusdb.rui2015.me/guide/quest/pc), Or move the files manualy using a pc or android phone.
 
