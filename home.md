@@ -8,18 +8,36 @@ layout: default
 
 [(Getting Started)](getting_sidequest.md)
 
+### If you have already used bmbf and have the core mods you can skip to here
 
 [(Installing mods)](installing_mods.md)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yes
 ******
 
 this website is still in development
 
 ******
 
-> Ver = 0.05
+Ver = 0.05
 
 ******
 
