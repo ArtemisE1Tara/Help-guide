@@ -11,7 +11,8 @@ layout: default
 
 [(Installing mods)](installing_mods.md)
 
-
+## image testing
+nuggo.png
 this website is on v0.2
 
 
