@@ -12,15 +12,16 @@ layout: default
 [(Installing mods)](installing_mods.md)
 
 ## image testing
-nuggo.png
-
-
-
-this website is on v0.3
+<img src="/assets/nuggo.png" style="height: 100px; width:100px;"/>
 
 
 
 
-##credits
-@oli#6747
-@ArtemisE1Tara#8160
+this website is still in development
+
+Ver = 0.4
+
+
+credits
+ - @oli#6747
+ - @ArtemisE1Tara#8160
