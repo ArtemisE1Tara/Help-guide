@@ -6,7 +6,7 @@ filename: getting_sidequest.md
 
 
 
-### please fucking work omg
+### soonTM
 [(Downgrading)](downgrading.md)
 
 
