@@ -12,7 +12,7 @@ layout: default
 [(Installing mods)](installing_mods.md)
 
 ## image testing
-<img src="/assets/nuggo.png" style="height: 100px; width:100px;"/>
+<img src="/assets/img/nuggo.png" alt="nuggo picture" style="height: 100px; width:100px;"/>
 
 
 
