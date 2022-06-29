@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Need help with the entire process, if so then start here
 
-/getting_sidequest.md/
+[Getting Started](/getting_sidequest/)
 
 
 
