@@ -13,7 +13,7 @@ layout: default
 
 ## image testing
 nuggo.png
-this website is on v0.2
+this website is on v0.3
 
 
 
