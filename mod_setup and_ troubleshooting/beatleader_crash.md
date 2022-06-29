@@ -1,7 +1,7 @@
 ---
-title: Problems and setups that you may have with some individual mods
+title: Beatleader known crash
 layout: default
-filename: installing_mods.md
+filename: beatleader_crash.md
 ---
 
 If BeatLeader is crashing when hitting the play button OR not doing anything when you try to log in:
@@ -9,12 +9,12 @@ Try restarting your game first. If that doesn’t work, using a file browser lik
 
 
 ****
-[(back to troubleshooting and setuo)](individual_mods_homepage.md)
+[(back to troubleshooting and setup)](../individual_mods_homepage.md)
 
 
 
 ****
-[(home)](home.md)
+[(home)](../home.md)
 
 
 

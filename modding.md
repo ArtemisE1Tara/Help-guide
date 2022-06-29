@@ -1,7 +1,7 @@
 ---
-title: Installing mods
+title: Modding
 layout: default
-filename: installing_mods.md
+filename: modding.md
 ---
 
 # Modding using bmbf
