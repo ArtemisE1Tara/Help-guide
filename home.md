@@ -6,7 +6,10 @@ layout: default
 
 ### Need help with the entire process, if so then start here
 
-[Getting Started](getting_sidequest.md)
+[(Getting Started)](getting_sidequest.md)
 
 
 this website is on v0.2
+
+##credits
+@oli#6747
