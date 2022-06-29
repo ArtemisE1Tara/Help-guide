@@ -10,7 +10,7 @@ This site has downloads to most mods on supported versions.
 
 To add these mods to your game you can either use the web installer shown below or download the mods by opening that website in the browser tab inside of BMBF.
 
-
+![](assets/pcbmbf.png "this image shows the bmbf web interface")
 
 
 

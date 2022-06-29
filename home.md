@@ -11,15 +11,14 @@ layout: default
 
 [(Installing mods)](installing_mods.md)
 
-## image testing
-![the nuggo man](assets/nuggo.png "smexy nugget")
+
 
 
 
 
 this website is still in development
 
-Ver = 0.4
+Ver = 0.05
 
 
 credits
