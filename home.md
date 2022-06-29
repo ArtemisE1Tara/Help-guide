@@ -38,6 +38,7 @@ Ver = 0.07
 
 ******
 
-credits
+credits (their discord tags)
  - @oli#6747
  - @ArtemisE1Tara#8160
+ - @X.#2389
