@@ -12,7 +12,8 @@ layout: default
 
 [(Installing mods and songs)](installing_mods_songs.md)
 
-
+### If you are experiencing crashing or problems setting up individual mods then look here
+[(troubleshooting and setup)](individual_mods_homepage.md)
 
 
 
