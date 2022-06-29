@@ -9,7 +9,4 @@ layout: default
 [Getting Started](getting_sidequest.md)
 
 
-
-
-
-
+this website is on v0.1

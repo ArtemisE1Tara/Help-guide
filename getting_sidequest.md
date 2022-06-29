@@ -1,8 +1,8 @@
 ---
-title: "Getting sidequest"
-permalink: /
-layout: index.md
----
+title: PAGE TITLE HERE
+layout: default
+filename: getting_sidequest.md
+--- 
 
 
 

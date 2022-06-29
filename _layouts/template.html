@@ -1,0 +1,7 @@
+{{ content }}
+<ul>
+    <li><a href="home.md">Home</a></li>
+{% for page in site.pages %}
+<a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
+  </ul>
