@@ -34,4 +34,4 @@ At the top of this page you can see a search bar, you can type the name of the s
 
 
 ****
-[(home)](home.md)
+[(Home)](home.md)

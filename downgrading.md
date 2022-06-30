@@ -20,5 +20,5 @@ depending on the mods that you want you may need to downgrade to different versi
 - A third option for downgrading is to install <a href="assets/Cx File Explorer.com.apk" download>(CX file explorer)</a>, this will allow you to install apks from inside your headset. To get the file on your headset you could either download it in the oculus browser from [(here)](https://oculusdb.rui2015.me/guide/quest/pc), Or move the files manualy using a pc or android phone.
 
 ****
-[(home)](home.md)
+[(Home)](home.md)
 ****

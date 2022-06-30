@@ -12,6 +12,6 @@ filename: getting_sidequest.md
 
 
 ****
-[(home)](home.md)
+[(Home)](home.md)
 
 ****

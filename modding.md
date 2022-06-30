@@ -8,7 +8,7 @@ filename: modding.md
 
 
 ****
-[(home)](home.md)
+[(Home)](home.md)
 
 ****
 
