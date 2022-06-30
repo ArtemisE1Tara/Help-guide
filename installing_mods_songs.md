@@ -51,11 +51,9 @@ You can get songs and playlists from a few places.
 
 
 ### More on beatsage
-What is Beat Sage, and why don't people like it?
-Beat Sage is an AI map generator that will create "good enough" maps when given a music file or song link. While the initial release caused some tension between the mapping community and Beat Sage, those issues have largely been addressed. Please don't attack people using it to play their favorite songs as there are systems in place to detect and reclassify Beat Sage maps on BeatSaver.
-
-In terms of the quality, it's basically the McDonald's of mapping. While generally "playable" in an academic sense and has its uses, they don't offer much in terms of actual fun factor/feeling/soul of the map. 
-
+- Beat Sage is an AI map generator that will create "good enough" maps when given a music file or song link. 
+- In terms of the quality, it's basically the McDonald's of mapping. While generally "playable" in an academic sense and has its uses, they don't offer much in terms of actual fun factor/feeling/soul of the map. 
+- Beat sage should be used as a last resort if the song you want to play exists nowhere else.
 
 
 ****
