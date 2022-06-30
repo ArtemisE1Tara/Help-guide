@@ -22,7 +22,7 @@ Depending on the mods that you want you may need to downgrade to different versi
 
 ## You can also get the versions here if the website is down:
 
-### Make sure your signed into [(oculus.com)](https://oculus.com/experiences/quest) then click the link below
+ Make sure your signed into [(oculus.com)](https://oculus.com/experiences/quest) then downloads below. 
 
 - Beat Saber 1.17.1: [(Download)](https://securecdn.oculus.com/binaries/download/?id=6077173189023259)
 
