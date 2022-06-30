@@ -1,7 +1,7 @@
 ---
 title: Grey play button
 layout: default
-filename: Grey_play_button.md
+filename: grey_play_button.md
 --- 
 
 
