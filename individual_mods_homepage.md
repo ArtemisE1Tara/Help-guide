@@ -19,7 +19,7 @@ filename: installing_mods.md
 - [(Qosmetics **1.17.1**)](/mod_setup_and_troubleshooting/qosmetics_crash.md)
 
 
-# Common problems:
+# Common problems.
 - [(Grey play buton)](/mod_setup_and_troubleshooting/grey_play_button.md)
 
 ****
