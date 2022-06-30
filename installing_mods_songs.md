@@ -58,7 +58,9 @@ You can get songs and playlists from a few places.
 
 ****
 ## Downloading inside bmbf
-
+- To download songs you can open [(Beastsaber)](https://bsaber.com/) or [(Beatsaver)](https://beatsaver.com/) Inside the browser tab of bmbf
+- Once this website is open simply download any songs you want and they will be automatically added to your game.
+- You can also download playlists the same way
 
 ****
 ## Syncsaber
