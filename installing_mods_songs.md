@@ -30,6 +30,13 @@ To add these mods to your game you can either use the web installer shown below 
 - After this make sure to click "sync to beatsaber" in the top right of bmbf
 
 ---
+
+# songs 
+- Songs will stay between versions 
+- If you try and play a song and the play button is grey you may need some mods to play it, look in the top right on that song for a **blue question mark**. This will show you what mods are needed to play this song read: [(Grey play buton)](/mod_setup_and_troubleshooting/grey_play_button.md)
+
+
+
 # To add songs to your game you can use a few different methods
 
 ## The in game song downloader
@@ -68,8 +75,9 @@ You can get songs and playlists from a few places.
 
 ****
 ## The song folder
-
-
+- One other method is to place the songs in the song folder manualy, this is useful if you are transfering songs from the pc version of the game.
+- You can find the song folder at`sdcard/moddata/com.beatgames.beatsaber/mods/songloader/customlevels`
+- This song folder can also be backed up to your computer if you are going to factory reset.
 
 
 ****
