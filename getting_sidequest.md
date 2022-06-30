@@ -7,6 +7,7 @@ filename: getting_sidequest.md
 
 
 ### soonTM
+Click below to continue the guide.
 
 [(Downgrading)](downgrading.md)
 
