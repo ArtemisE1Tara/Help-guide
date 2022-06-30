@@ -8,7 +8,7 @@ filename: installing_mods_songs.md
 [https://computerelite.github.io/tools/Beat_Saber/questmods.html](https://computerelite.github.io/tools/Beat_Saber/questmods.html)
 This site has downloads to most mods on supported versions.
 
-To add these mods to your game you can either use the web installer shown below or download the mods by opening that website in the browser tab inside of BMBF.
+To add these mods to your game you can either use the web installer shown below or download the mods by opening that website in the browser tab inside in BMBF.
 
 ![](assets/pcbmbf.png "this image shows the bmbf web interface")
 
@@ -23,6 +23,12 @@ To add these mods to your game you can either use the web installer shown below 
 - Your ip hasn't changed, as it changes from time to time
 - Your ip is not 127.0.0.1
 ### If none of these work restart your quest and try them all again
+
+***
+
+- Once the mod is in bmbf look in the mods tab to check that it was added sucsesfully and that the mod is toggled on.
+- After this make sure to click "sync to beatsaber" in the top right of bmbf
+
 ---
 # To add songs to your game you can use a few different methods
 
@@ -35,13 +41,35 @@ At the top of this page you can see a search bar, you can type the name of the s
 ****
 ### The bmbf web interface.
 
+You can get songs and playlists from a few places.
+- [(Beastsaber)](https://bsaber.com/)  This is better for playlists and songs of quality.
+- [(Beatsaver)](https://beatsaver.com/) This has litteraly every song uploaded but thats both a good and bad thing.
+- [(Beatsage)](https://beatsage.com/) This is a webiste you can use to auto generate songs, these songs are often not the best quality. 
+
+### To add these songs or playlists you can drag the files into the bmbf web interface shown below, for playlists you can use `.bplist` or `.json` files, for songs you can use `.zip` files.
+![](assets/pcbmbf.png "this image shows the bmbf web interface")
+
+
+### More on beatsage
+What is Beat Sage, and why don't people like it?
+Beat Sage is an AI map generator that will create "good enough" maps when given a music file or song link. While the initial release caused some tension between the mapping community and Beat Sage, those issues have largely been addressed. Please don't attack people using it to play their favorite songs as there are systems in place to detect and reclassify Beat Sage maps on BeatSaver.
+
+In terms of the quality, it's basically the McDonald's of mapping. While generally "playable" in an academic sense and has its uses, they don't offer much in terms of actual fun factor/feeling/soul of the map. 
+
+
 
 ****
 ### Downloading inside bmbf
 
 
 ****
-### Adding to song folder
+### Syncsaber
+
+
+****
+### The song folder
+
+
 
 
 ****
