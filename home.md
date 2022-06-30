@@ -6,7 +6,11 @@ layout: default
 
 # Welcome
 welcome to the unoficial helpers guide, this website is maintained by @oli#6747 with help from the entire helper group that can be viewed [(here)](https://artemise1tara.github.io/QuestSupport/)
-Also join our discord [(Quest supporters discord)](discord.gg/questsupport)
+
+
+Also join our discord [(Quest supporters discord)](discord.gg/questsupport).
+
+
 We have a [(patreon!)](https://www.patreon.com/QuestSupport)
 
 ## Need help with the entire process, if so then start here
