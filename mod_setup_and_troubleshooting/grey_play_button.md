@@ -6,7 +6,7 @@ filename: grey_play_button.md
 
 
 
-# grey play button fixes
+# Grey play button fixes
 
 
 
