@@ -46,7 +46,7 @@ You can get songs and playlists from a few places.
 - [(Beatsaver)](https://beatsaver.com/) This has litteraly every song uploaded but thats both a good and bad thing.
 - [(Beatsage)](https://beatsage.com/) This is a webiste you can use to auto generate songs, these songs are often not the best quality. 
 
-## To add these songs or playlists you can drag the files into the bmbf web interface shown below, for playlists you can use `.bplist` or `.json` files, for songs you can use `.zip` files.
+### To add these songs or playlists you can drag the files into the bmbf web interface shown below, for playlists you can use `.bplist` or `.json` files, for songs you can use `.zip` files.
 ![](assets/pcbmbf.png "this image shows the bmbf web interface")
 
 
