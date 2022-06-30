@@ -32,21 +32,21 @@ To add these mods to your game you can either use the web installer shown below 
 ---
 # To add songs to your game you can use a few different methods
 
-### The in game song downloader
+## The in game song downloader
 This is the simplest method of adding songs to your game, you can open this by looking to your left in the main menu and clicking "song downloader" will bring you into a menu that looks like this:
 ![](assets/song_downloader.png "This image shows the in game song downloader")
 At the top of this page you can see a search bar, you can type the name of the song you want to download there. You can also add filters to this list to show only songs that use noodle extensions, or filter only ranked songs.
 ![](assets/song_filter_in_game.png "This image shows the in game song downloader's filters")
 
 ****
-### The bmbf web interface.
+## The bmbf web interface.
 
 You can get songs and playlists from a few places.
 - [(Beastsaber)](https://bsaber.com/)  This is better for playlists and songs of quality.
 - [(Beatsaver)](https://beatsaver.com/) This has litteraly every song uploaded but thats both a good and bad thing.
 - [(Beatsage)](https://beatsage.com/) This is a webiste you can use to auto generate songs, these songs are often not the best quality. 
 
-### To add these songs or playlists you can drag the files into the bmbf web interface shown below, for playlists you can use `.bplist` or `.json` files, for songs you can use `.zip` files.
+## To add these songs or playlists you can drag the files into the bmbf web interface shown below, for playlists you can use `.bplist` or `.json` files, for songs you can use `.zip` files.
 ![](assets/pcbmbf.png "this image shows the bmbf web interface")
 
 
@@ -57,15 +57,15 @@ You can get songs and playlists from a few places.
 
 
 ****
-### Downloading inside bmbf
+## Downloading inside bmbf
 
 
 ****
-### Syncsaber
+## Syncsaber
 
 
 ****
-### The song folder
+## The song folder
 
 
 
