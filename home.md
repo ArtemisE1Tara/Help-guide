@@ -16,6 +16,9 @@ layout: default
 [(troubleshooting and setup)](individual_mods_homepage.md)
 
 
+### Tips and tricks
+
+
 
 
 
@@ -38,7 +41,7 @@ Ver = 0.07
 
 ******
 
-credits (their discord tags)
+*Credits*
  - @oli#6747
  - @ArtemisE1Tara#8160
  - @X.#2389
