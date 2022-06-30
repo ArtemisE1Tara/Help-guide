@@ -4,8 +4,8 @@ layout: default
 filename: installing_mods.md
 ---
 # Mod setup, *setting up mods that are a bit more complex*
- - [(Qosmetics **1.17.1**)](/mod_setup_and_troubleshooting/qosmetics_setup.md)
-
+- [(Qosmetics **1.17.1**)](/mod_setup_and_troubleshooting/qosmetics_setup.md)
+- [(Quest sounds **all versions**)](/mod_setup_and_troubleshooting/quest_sounds_setup.md)
 
 # Troubleshooting, *known fixes for crashey mods*.
 ### To find what mod is causing a crash look here: 
