@@ -26,13 +26,13 @@ To add these mods to your game you can either use the web installer shown below 
 
 ***
 
-- Once the mod is in bmbf look in the mods tab to check that it was added sucsesfully and that the mod is toggled on.
+- Once the mod is in bmbf look in the mods tab to check that it was added successfully and that the mod is toggled on.
 - After this make sure to click "sync to beatsaber" in the top right of bmbf
 
 ---
 
 # songs 
-- Songs will stay between versions 
+- Songs will stay between versions (click restore playlists when changing versions)
 - If you try and play a song and the play button is grey you may need some mods to play it, look in the top right on that song for a **blue question mark**. This will show you what mods are needed to play this song read: [(Grey play buton)](/mod_setup_and_troubleshooting/grey_play_button.md)
 
 
