@@ -9,7 +9,7 @@ filename: installing_mods.md
 
 # Troubleshooting, *known fixes for crashey mods*.
 ### To find what mod is causing a crash look here: 
-- [(General crashes)](/mod_setup_and_troubleshooting/diagnosing_what_crash.md)
+- [(General crashes **all versions**)](/mod_setup_and_troubleshooting/diagnosing_what_crash.md)
 
 ### Then look here to find the known crashes:
 - [(Beatleader **all versions**)](/mod_setup_and_troubleshooting/beatleader_crash.md)
