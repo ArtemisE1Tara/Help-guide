@@ -14,6 +14,8 @@ filename: installing_mods.md
 ### Then look here to find the known crashes:
 - [(beatleader)](/mod_setup and_troubleshooting/beatleader_crash.md)
 - [(qosmetics)](/mod_setup%20and_troubleshooting/qosmetics_crash.md)
+
+
 ****
 [(home)](/home.md)
 
