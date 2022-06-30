@@ -4,7 +4,7 @@ layout: default
 filename: installing_mods.md
 ---
 # Mod setup, *setting up mods that are a bit more complex*
- - [(Qosmetics)](/mod_setup and_troubleshooting/qosmetics_setup.md)
+ - [(Qosmetics **1.17.1**)](/mod_setup and_troubleshooting/qosmetics_setup.md)
 
 
 # Troubleshooting, *known fixes for crashey mods*.
@@ -12,8 +12,8 @@ filename: installing_mods.md
 - [(General crashes)](/mod_setup and_troubleshooting/diagnosing_what_crash.md)
 
 ### Then look here to find the known crashes:
-- [(Beatleader)](/mod_setup and_troubleshooting/beatleader_crash.md)
-- [(Qosmetics)](/mod_setup%20and_troubleshooting/qosmetics_crash.md)
+- [(Beatleader **all versions**)](/mod_setup and_troubleshooting/beatleader_crash.md)
+- [(Qosmetics **1.17.1**)](/mod_setup%20and_troubleshooting/qosmetics_crash.md)
 
 
 ****
